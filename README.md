@@ -2,6 +2,7 @@
 
 This is the official code of the paper titled Multi-Perspective Stance Detection accepted for RAAIT'24.
 
+
 Abstract:Subjective NLP tasks usually rely on human annotations provided by multiple annotators, whose judgments may vary due to their diverse backgrounds and life experiences.
 Traditional methods often aggregate multiple annotations into a single ground truth, disregarding the diversity in perspectives that arises from annotator disagreement. 
 In this preliminary study, we examine the effect of including multiple annotations on model accuracy in classification.
